@@ -1,5 +1,5 @@
-The Login Page of the Banking Application is designed to make it easy and secure for users to access their accounts. Users need to enter their registered email and password to log in.
+The Console-Based Login Page allows users to log in securely through a simple command-line interface. Users are prompted to enter their username and password to access their accounts.
 
-For extra security, the login system includes multi-factor authentication (MFA). After entering the correct email and password, a verification code is sent to the user’s registered phone or email. This ensures that only the rightful user can access the account.
+For extra security, the system can use multi-factor authentication (MFA). After entering the correct login details, a verification code is sent to the user’s registered email or phone. The user must enter this code to complete the login process. This ensures that only authorized users can access the account.
 
-If a user forgets their password, they can reset it using the "Forgot Password" option. A reset link is sent to their email, allowing them to create a new password easily.
+If a user forgets their password, they can select the "Forgot Password" option. A reset link is sent to their registered email, allowing them to set a new password. If the user enters incorrect login details multiple times, the system temporarily locks the account to prevent unauthorized access.
